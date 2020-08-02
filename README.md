@@ -69,11 +69,13 @@ client.on('authentication', async (ctx: AuthContext) => {
 # Article
 https://medium.com/@markus.springer1994/build-your-own-sftp-server-using-nodejs-d0deee0b28d4
 
-🌟 Thanks
+# 🌟 Thanks
+
 First of all, thank you @mscdex for this project which my work is based on.
 It has made my life easier.
 
-Resources 🧰
+
+# 🧰 Resources 
 
 Here are some resources if you want to learn more about this project:
 https://github.com/xMarkusSpringerx/node-sftp-server-skeleton
