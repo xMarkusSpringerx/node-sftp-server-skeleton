@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "tsc",
+    "start": "node build/server.js"
+  },
+  "keywords": [],
+  "author": "Markus Springer",
+  "license": "ISC",
+  "dependencies": {
+    "ssh2": "^0.8.9",
+    "ssh2-streams": "^0.4.10",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@types/ssh2": "^0.5.44",
+    "@types/ssh2-streams": "^0.1.7"
+  }
+}
